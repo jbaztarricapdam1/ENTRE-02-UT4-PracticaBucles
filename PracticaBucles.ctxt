@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=PracticaBucles
+comment0.text=\r\n\ \ \ \ @author\ -\ Julen\ Baztarrica\r\n
+comment1.params=
+comment1.target=PracticaBucles()
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment2.params=n
+comment2.target=void\ generarNumeros(int)
+comment2.text=\r\n\ \ El\ m\u00E9todo\ \ genera\ \ n\u00FAmeros\ aleatorios\ \ entre\ -1000\ y\ 5000\ (inclusive)\r\n\ \ y\ calcula\ y\ escribe\:\r\n\ \ \ \ \ \ -\ la\ media\ de\ todos\ los\ n\u00FAmeros\r\n\ \ \ \ \ \ -\ la\ suma\ de\ los\ impares\r\n\ \ \ \ \ \ -\ el\ m\u00E1ximo\ de\ los\ pares\r\n\ \ \ \ \ \ \ \ \r\n\ \ El\ proceso\ termina\ cuando\ sale\ un\ 0\ o\ bien\ se\ han\ escrito\ n\ n\u00BAs\r\n\ \ \r\n\ \ Los\ n\u00FAmeros\ se\ escriben\ \ en\ filas\ de\ 5\ columnas\ \r\n\ \ Cada\ n\u00BA\ aleatorio\ se\ muestra\ en\ un\ espacio\ de\ 12\ posiciones\ en\ la\ pantalla\ \ \r\n\ \ y\ al\ lado\ de\ cada\ n\u00BA\ se\ muestra\ otro\ n\u00BA\ con\ las\ mismas\ cifras\ y\ \r\n\ \ en\ el\ mismo\ orden\ pero\ sin\ ceros\ (en\ 5\ posiciones)\r\n\ \ \r\n\ \ \ Utiliza\ solo\ bucles\ while\r\n
+comment3.params=numero
+comment3.target=boolean\ esImpar(int)
+comment3.text=\r\n\ \ Devuelve\ true\ si\ numero\ es\ impar,\ false\ en\ otro\ caso\r\n\ \ Hazlo\ sin\ utilizar\ if\r\n
+comment4.params=numero
+comment4.target=int\ obtenerNumeroSinCeros(int)
+comment4.text=\r\n\ \ Dado\ un\ n\u00BA\ genera\ y\ devuelve\ otro\ nuevo\ \r\n\ \ con\ las\ mismas\ cifras\ y\ en\ el\ mismo\ orden\ pero\ sin\ \r\n\ \ los\ 0\r\n\ \ Ej\ -\ si\ numero\ \=\ 2040\ devuelve\ \ 24,\ si\ numero\ \=\ 1009\ devuelve\ \ 19\r\n\ \ si\ numero\ \=\ 3000\ devuelve\ 3\r\n\ \ \ \r\n\ \ \ \r\n
+comment5.params=
+comment5.target=void\ borrarPantalla()
+comment5.text=\r\n\ \ Borrar\ la\ pantalla\r\n\r\n
+comment6.params=altura
+comment6.target=void\ escribirLetraN(int)
+comment6.text=\r\n\ \ \r\n\ \ Dibuja\ la\ letra\ N\ (ver\ figura\ en\ el\ enunciado)\r\n\ \ Con\ bucles\ for\r\n\ \ \r\n\ \ Hay\ que\ usar\ el\ m\u00E9todo\ escribirCaracter()\r\n\ \ \r\n\ \ \r\n\ \ \ \r\n
+comment7.params=caracter\ n
+comment7.target=void\ escribirCaracter(char,\ int)
+comment7.text=\r\n\ \ escribe\ n\ veces\ el\ caracter\ \ indicado\ en\ la\ misma\ l\u00EDnea\r\n\ \ con\ bucles\ for\r\n
+numComments=8

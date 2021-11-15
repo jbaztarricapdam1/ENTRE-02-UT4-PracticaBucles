@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Utilidades
+comment0.text=\r\n\ \ \ Clase\ de\ utilidades\r\n\ \ \ Incluye\ m\u00E9todos\ est\u00E1ticos\r\n
+comment1.params=
+comment1.target=void\ hacerPausa()
+comment1.text=\r\n\ \ Hacer\ una\ pausa\ \ \r\n
+comment2.params=
+comment2.target=void\ borrarPantalla()
+comment2.text=\r\n\ \ Borrar\ la\ pantalla\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TestPracticaBucles
+comment0.text=\r\n\ Incluye\ todo\ el\ c\u00F3digo\ dentro\ del\ main()\r\n\ No\ declares\ ning\u00FAn\ nuevo\ m\u00E9todo\ en\ esta\ clase\ ni\ atributos\r\n\ \ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ Punto\ de\ entrada\ a\ la\ aplicaci\u00F3n\r\n\ \ -\ define\ y\ crea\ el\ teclado\ \ \r\n\ \ -\ define\ e\ instancia\ un\ objeto\ PracticaBucles\r\n\ \ -\ pide\ al\ usuario\ la\ cantidad\ m\u00E1xima\ de\ aleatorios\ a\ generar\r\n\ \ \ \ (valida\ que\ sea\ \ un\ n\u00BA\ positivo)\r\n\ \ -\ muestra\ las\ estad\u00EDsticas\ de\ n\u00FAmeros\ aleatorios\r\n\ \ -\ haz\ una\ pausa\ y\ borra\ la\ pantalla\ \ \ \ \r\n\ \ \r\n\ \ -\ pide\ al\ usuario\ un\ valor\ para\ la\ altura\ de\ la\ letra\ N\ -\r\n\ \ \ \ \ \ \ \ \ \ Valida\ que\ este\ valor\ es\ correcto,\ es\ decir,\r\n\ \ \ \ \ \ \ \ \ \ est\u00E1\ en\ el\ intervalo\ 3\ <\=\ altura\ <\=\ 10\r\n\ \ -\ muestra\ la\ letra\ N\r\n\ \ \r\n
+numComments=2

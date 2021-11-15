@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class TestPracticaBucles
 {
-
+    private Scanner teclado;
     /**
      *  Punto de entrada a la aplicación
      *  - define y crea el teclado  
@@ -25,7 +25,6 @@ public class TestPracticaBucles
      */
     public static void main(String[] args)    {
         //TODO
-        
         
         
         
